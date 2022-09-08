@@ -1,0 +1,139 @@
+.subheading-1{
+  font-size: 2rem;
+  line-height: 1.5;
+  color: #fff;
+  padding: 40px 80px;
+}
+
+.subheading-2{
+  font-size: 2rem;
+  margin-top: 50px;
+  line-height: 1.5;
+  color: #fff;
+  padding: 40px 80px;
+
+}
+
+.title{
+  font-size: 2rem;
+}
+
+.tc-logo{
+  height: 80px;
+}
+
+.nav-item{
+  margin: 0 20px;
+}
+
+.nav-link{
+  font-size: 1.8rem;
+}
+
+.promo-icons{
+  text-align: center;
+}
+
+.job-description{
+  background-color: #EFEFEF;
+  align-items: center;
+  text-align: center;
+  line-height: 2;
+  padding: 50px;
+}
+
+.job-desc-icons{
+  color: #112B3C;
+  font-size: 1.9rem;
+  margin-top: 40px;
+}
+
+.JD{
+  margin: 40px 0 40px 0;
+}
+
+#overview{
+  background-color: #112B3C;
+}
+
+.community-logo{
+  height: 350px;
+  width: 350px;
+  border-radius: 70%;
+  padding-top: 20px
+}
+
+.community-subheading{
+  color: #112B3C;
+  font-size: 2rem;
+}
+
+.community-comment{
+  color: #112B3C;
+  font-size: 1.5rem;
+}
+
+.carousel-bg{
+  background-color: #EFEFEF;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+  height: 600px;
+}
+
+.control-icons{
+  background-color: #B2C8DF;
+  height: 3rem;
+  width: 3rem;
+}
+
+.comms-heading{
+  background-color: #EFEFEF;
+  margin-bottom: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+.rnr-text{
+  font-size: 1.8rem;
+  line-height: 1.5;
+}
+
+.rnr-heading{
+  color: #fff;
+  text-align: center;
+  padding: 15px;
+}
+
+.roles-n-resp{
+  background-color: #112B3C;
+  padding: 25px;
+}
+
+.rnr-banner{
+  background-color: #77ACF1;
+}
+
+.rnr-banner-heading{
+  text-align: center;
+  line-height: 1.5;
+}
+
+.socials-heading{
+  text-align: center;
+  padding: 20px;
+}
+
+.socials{
+  text-align: center;
+}
+
+.socials-icon{
+  padding: 25px;
+}
+
+.copyright-heading{
+  padding: 25px;
+  text-align: center;
+  font-size: 1.2rem;
+}
